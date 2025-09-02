@@ -7,12 +7,6 @@ import java.util.Scanner;
  * This class represents the Transplant Driver the user can use to interact with the transplant system.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 7
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class TransplantDriver {
     /** Represents the file path containing information on the donors. */

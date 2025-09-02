@@ -10,12 +10,6 @@ import java.util.Scanner;
  * This class represents the transplant system.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 7
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class TransplantGraph implements Serializable {
     /** Represents the donors in the transplant system. */

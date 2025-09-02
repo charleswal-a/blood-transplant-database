@@ -4,12 +4,6 @@ import java.io.Serializable;
  * This class represents a patient in the transplant system.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 7
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class Patient implements Serializable, Comparable<Object> {
     /** Represents the name of this patient. */

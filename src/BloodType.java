@@ -4,12 +4,6 @@ import java.io.Serializable;
  * This class represents a blood type that a patient has.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 7
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class BloodType implements Serializable {
     /** Represents the blood type of the patient.*/

@@ -4,12 +4,6 @@ import java.util.Comparator;
  * This class represents a comparator used to compare two Patient objects based on organ type.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 7
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class OrganComparator implements Comparator<Patient> {
     /**
